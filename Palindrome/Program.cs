@@ -19,13 +19,11 @@ namespace Palindrome
                 {
                     if (s.Substring(i, p).SequenceEqual(s.Substring(i, p).Reverse())) st.Add(s.Substring(i, p)); 
                 }
-
             }
 
             foreach (string str in st.OrderByDescending(e => e.Length).Take(3))
                 Console.WriteLine(str + " : with index " + s.IndexOf(str));
             Console.ReadLine(); 
-
         }
     }
 }

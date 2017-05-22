@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\kevin\\documents\\visual studio 2017\\Projects\\Palindrome\\Palindrome\\Palindrome.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin\\Documents\\Visual Studio 2017\\Projects\\Palindrome\\Palindrome\\Palindrome.csproj",
       "projectName": "Palindrome",
-      "projectPath": "c:\\users\\kevin\\documents\\visual studio 2017\\Projects\\Palindrome\\Palindrome\\Palindrome.csproj",
-      "outputPath": "c:\\users\\kevin\\documents\\visual studio 2017\\Projects\\Palindrome\\Palindrome\\obj\\",
+      "projectPath": "C:\\Users\\Kevin\\Documents\\Visual Studio 2017\\Projects\\Palindrome\\Palindrome\\Palindrome.csproj",
+      "outputPath": "C:\\Users\\Kevin\\Documents\\Visual Studio 2017\\Projects\\Palindrome\\Palindrome\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
